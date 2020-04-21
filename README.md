@@ -1,4 +1,4 @@
-# Node JS/TypeScript- 1.1
+# Node JS/TypeScript- 2.1
 
 This is the challange 2.1 for GoStack bootcamp @[RocketSeat](https://rocketseat.com.br/) 
 
